@@ -48,5 +48,7 @@ Syntax Summary:
                 [A-Za-Z] matches any uppercase o lowercase letters.
             
             [^...] NOT ONE of the character
-                [^0-9] matches any non-digit
+                [^0-9] matches any non-digit.
+            
+            Only these four characters require escape sequence inside the bracket list: ^, -,],\
 
