@@ -1,0 +1,27 @@
+Octal Numeral System.
+
+The octal numeral system, or oct for short, is the base-8 number system, and uses the digits 0 to 7.   
+
+
+octal digit value        Binary Equivalent
+     0                        000
+     1                        001
+     2                        010
+     3                        011
+     4                        100
+     5                        101
+     6                        110
+     7                        111
+
+    the maximum value of digit is 7 and can't be more than 7
+
+it is similar to hexadecimal number system.
+
+    Most Significant Bit    octal point     Least Significant Bit
+            (MSB)           
+            8^2             8^1    8^0         8^-1   8^-2   8^-3
+            64              8       1           1/8   1/64   1/512
+
+
+A number system which has its base as 'eight' is called an Octal number system.
+
